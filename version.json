@@ -1,8 +1,8 @@
 {
-  "web": 2610211826,
-  "webUrl": "web/2610211826.zip",
-  "checksum": "7d0af6e59ee318fb6e1b45bf2f23e7e68760ed66c49d1dcd93a3be02a3cc7195",
+  "web": 2610211857,
+  "webUrl": "web/2610211857.zip",
+  "checksum": "4a27c1ba0e5b42aa5417f9bccf0c7d44329e2ae5568ec9f2cd5bf65df49e0d71",
   "minApk": 42,
-  "notes": "Ajustes de classes, chefes reaparecem mais rápido, refino de cabeça e escudo",
+  "notes": "Exploração mais lenta (400ms), Asura com ATQ+SP, Trovão de Júpiter em área, Campo Gravitacional de suporte, cartas e refinos mais fortes, área das outras classes reduzida",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
