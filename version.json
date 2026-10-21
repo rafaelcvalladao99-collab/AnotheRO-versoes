@@ -1,8 +1,8 @@
 {
-  "web": 2610210817,
-  "webUrl": "web/2610210817.zip",
-  "checksum": "496e1a75f3a47a1739d84ce88a9fd5a2fef5a80796b3c88524c36ec4129f1593",
+  "web": 2610210823,
+  "webUrl": "web/2610210823.zip",
+  "checksum": "08d2337e5e3549a440c682418058e9e963d0371015ee3d91b49acbb531ef7945",
   "minApk": 42,
-  "notes": "Ajustes: DEF por habilidade, Frenesi com crítico, mais monstros nos primeiros mundos",
+  "notes": "Lorde ganha Fúria de Batalha; HP regenera conforme o HP máximo",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
