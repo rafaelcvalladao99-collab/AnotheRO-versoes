@@ -1,7 +1,8 @@
 {
-  "web": 2610210025,
-  "webUrl": "web/2610210025.zip",
-  "minApk": 14,
-  "notes": "Atualizador mais robusto; cartas do Rei Gelim e do Lorde Sombrio revistas",
+  "web": 2610210047,
+  "webUrl": "web/2610210047.zip",
+  "checksum": "8a78e42262003bed5ab1cb43c333b78c2096079ea5a029fad79b6531ddec0eb2",
+  "minApk": 42,
+  "notes": "SP das classes físicas, carta do Faraó revista, Faixas de Luta; atualizador corrigido",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
