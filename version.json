@@ -1,8 +1,8 @@
 {
-  "web": 2610211807,
-  "webUrl": "web/2610211807.zip",
-  "checksum": "c200be08e28cd340c67f18eb302f7402f0aa51d56f423c45f5d47957fea3b556",
+  "web": 2610211826,
+  "webUrl": "web/2610211826.zip",
+  "checksum": "7d0af6e59ee318fb6e1b45bf2f23e7e68760ed66c49d1dcd93a3be02a3cc7195",
   "minApk": 42,
-  "notes": "Escudo Petrificante reduz dano; gelo e pedra duram mais",
+  "notes": "Ajustes de classes, chefes reaparecem mais rápido, refino de cabeça e escudo",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
