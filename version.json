@@ -1,8 +1,8 @@
 {
-  "web": 2610211914,
-  "webUrl": "web/2610211914.zip",
-  "checksum": "f7be6b44c867f61bb9e23ea57ed0f52b15a2121e8a7600090f7f08acd05ba56e",
+  "web": 2610211926,
+  "webUrl": "web/2610211926.zip",
+  "checksum": "ae32b9014279bc56029f851dca76137d4581c3f8ddada499b260a3e3a49990d3",
   "minApk": 42,
-  "notes": "Monstros +20% HP/+10% ATK; Faísca, Pedra e Luz Divina escalam menos; Kyrie 21%; Calor do Sol 40%; Kagerou com menos esquiva; combos do mago x5/x4,5",
+  "notes": "Fúria do Lorde cresce contra chefes; Kunai, Garra Sombria, Chute Voador, Curar e Luz Divina rebalanceados; Nevasca congela mais; Trovão mais rápido",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
