@@ -1,8 +1,8 @@
 {
-  "web": 2610211204,
-  "webUrl": "web/2610211204.zip",
-  "checksum": "7d4b087da05b9453c3ef13a61aed33c4130e96317d9ef9096760677525383ff7",
+  "web": 2610211214,
+  "webUrl": "web/2610211214.zip",
+  "checksum": "000a8e567f7223c2528b1389c52ac88e6abdc750696c568b756af4f7d8103c2e",
   "minApk": 42,
-  "notes": "Magos e arqueiros mais fracos; Redemoinho e Fúria melhores",
+  "notes": "Magias mais fracas e Proteção Arcana para o Mago",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
