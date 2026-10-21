@@ -1,8 +1,8 @@
 {
-  "web": 2610211728,
-  "webUrl": "web/2610211728.zip",
-  "checksum": "fae5378b16b74b48db14f0e6dc98d30fdbf22febfb802569d14cc20e777a8f81",
+  "web": 2610211754,
+  "webUrl": "web/2610211754.zip",
+  "checksum": "94e2444d9d43aa3fd325be7270e3808b14dd7bcae10fdc9701c4e0248b23043e",
   "minApk": 42,
-  "notes": "Mago: nerf forte, combos de gelo e pedra viram o caminho do dano",
+  "notes": "Habilidades com dano base + %, cartas de SP, magos mais fracos",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
