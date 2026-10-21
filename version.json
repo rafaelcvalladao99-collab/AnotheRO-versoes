@@ -1,8 +1,8 @@
 {
-  "web": 2610211754,
-  "webUrl": "web/2610211754.zip",
-  "checksum": "94e2444d9d43aa3fd325be7270e3808b14dd7bcae10fdc9701c4e0248b23043e",
+  "web": 2610211801,
+  "webUrl": "web/2610211801.zip",
+  "checksum": "cd7949f117de2f13eb529680e648af45a7ada8943fa2b5bc3ba0da9cabede102",
   "minApk": 42,
-  "notes": "Habilidades com dano base + %, cartas de SP, magos mais fracos",
+  "notes": "Só magias em área têm tempo de conjuração",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
