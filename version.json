@@ -1,8 +1,8 @@
 {
-  "web": 2610211216,
-  "webUrl": "web/2610211216.zip",
-  "checksum": "3adc1ebde4004c54c13518c4532153bad1ad8a06a6bdd7790bf0591be9af8c24",
+  "web": 2610211433,
+  "webUrl": "web/2610211433.zip",
+  "checksum": "be1e1e58ea94b8129add3944852d68e51a5ca11781c1743533563d3c00d3801d",
   "minApk": 42,
-  "notes": "Cavaleiro ganha Fervor de Batalha",
+  "notes": "Mago por combos (pedra + fogo, gelo + raio), roubo de vida no Frenesi, ícones e efeitos novos das habilidades",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
