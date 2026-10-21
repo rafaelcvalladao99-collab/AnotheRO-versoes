@@ -1,8 +1,8 @@
 {
-  "web": 2610211857,
-  "webUrl": "web/2610211857.zip",
-  "checksum": "4a27c1ba0e5b42aa5417f9bccf0c7d44329e2ae5568ec9f2cd5bf65df49e0d71",
+  "web": 2610211914,
+  "webUrl": "web/2610211914.zip",
+  "checksum": "f7be6b44c867f61bb9e23ea57ed0f52b15a2121e8a7600090f7f08acd05ba56e",
   "minApk": 42,
-  "notes": "Exploração mais lenta (400ms), Asura com ATQ+SP, Trovão de Júpiter em área, Campo Gravitacional de suporte, cartas e refinos mais fortes, área das outras classes reduzida",
+  "notes": "Monstros +20% HP/+10% ATK; Faísca, Pedra e Luz Divina escalam menos; Kyrie 21%; Calor do Sol 40%; Kagerou com menos esquiva; combos do mago x5/x4,5",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
