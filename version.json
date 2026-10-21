@@ -1,8 +1,8 @@
 {
-  "web": 2610211801,
-  "webUrl": "web/2610211801.zip",
-  "checksum": "cd7949f117de2f13eb529680e648af45a7ada8943fa2b5bc3ba0da9cabede102",
+  "web": 2610211807,
+  "webUrl": "web/2610211807.zip",
+  "checksum": "c200be08e28cd340c67f18eb302f7402f0aa51d56f423c45f5d47957fea3b556",
   "minApk": 42,
-  "notes": "Só magias em área têm tempo de conjuração",
+  "notes": "Escudo Petrificante reduz dano; gelo e pedra duram mais",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
