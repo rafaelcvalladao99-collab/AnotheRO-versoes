@@ -1,8 +1,8 @@
 {
-  "web": 2610270415,
-  "webUrl": "web/2610270415.zip",
-  "checksum": "e3f91a014478d7c162b884a6f871c4bf23d8cc6a5db8ccc0786bde811067b8fc",
+  "web": 2610271328,
+  "webUrl": "web/2610271328.zip",
+  "checksum": "e206c12e2d3cbba13b926e6d91d6fba34b2dc3d630f24b699bbee29c0340937b",
   "minApk": 42,
-  "notes": "Teste do cenário 3D no menu Opções",
+  "notes": "Cenário 3D: luz, sombra e paredes em 3D. Em Menu > Opções > Visual dá para escolher Alta, Média, Baixa ou Clássico (2D).",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
