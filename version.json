@@ -1,8 +1,8 @@
 {
-  "web": 2610270410,
-  "webUrl": "web/2610270410.zip",
-  "checksum": "8bf1539cb494f808266930564aa5d6c4c04749e92eb87d76c2ed9a4f732340ed",
+  "web": 2610270415,
+  "webUrl": "web/2610270415.zip",
+  "checksum": "e3f91a014478d7c162b884a6f871c4bf23d8cc6a5db8ccc0786bde811067b8fc",
   "minApk": 42,
-  "notes": "Nomes novos, Cemitério Assombrado, heróis com duas armas na mão e monstros novos no estilo LPC",
+  "notes": "Teste do cenário 3D no menu Opções",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
