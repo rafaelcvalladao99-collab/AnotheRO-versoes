@@ -1,8 +1,8 @@
 {
-  "web": 2610271328,
-  "webUrl": "web/2610271328.zip",
-  "checksum": "e206c12e2d3cbba13b926e6d91d6fba34b2dc3d630f24b699bbee29c0340937b",
+  "web": 2610271838,
+  "webUrl": "web/2610271838.zip",
+  "checksum": "2d9a65a91ca41caeab9761946b7a11f3909e963211cf163e8457948d52e4c8b0",
   "minApk": 42,
-  "notes": "Cenário 3D: luz, sombra e paredes em 3D. Em Menu > Opções > Visual dá para escolher Alta, Média, Baixa ou Clássico (2D).",
+  "notes": "Cenário HD 3D com kits de todos os biomas (Menu > Opções > Visual > HD 3D), água/lava/escadas em 3D, animações novas de todas as habilidades, efeitos de habilidade ativa e o falcão do Caçador.",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
