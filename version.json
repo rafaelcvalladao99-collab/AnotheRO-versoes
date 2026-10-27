@@ -1,8 +1,8 @@
 {
-  "web": 2610272059,
-  "webUrl": "web/2610272059.zip",
-  "checksum": "8fececcc2d78d232db1ddc5ac2299b0e5caf008d3165313db487f8fa3d441e3a",
+  "web": 2610272107,
+  "webUrl": "web/2610272107.zip",
+  "checksum": "7ddcf1ce8e78e28fc7388ee51fd83988b70cc519860f84aaaed64473dca8c1f0",
   "minApk": 42,
-  "notes": "Botão para voltar à cidade",
+  "notes": "Relatório de desempenho no menu",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
