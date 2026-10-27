@@ -1,8 +1,8 @@
 {
-  "web": 2610272107,
-  "webUrl": "web/2610272107.zip",
-  "checksum": "7ddcf1ce8e78e28fc7388ee51fd83988b70cc519860f84aaaed64473dca8c1f0",
+  "web": 2610272130,
+  "webUrl": "web/2610272130.zip",
+  "checksum": "e87e175f452a60ba281ceea0c6d8be117751e06aa65b01c0e0a8d8364965631a",
   "minApk": 42,
-  "notes": "Relatório de desempenho no menu",
+  "notes": "Jogo bem mais leve; atualização antes de abrir",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
