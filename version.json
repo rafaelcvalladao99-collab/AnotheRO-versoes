@@ -1,8 +1,8 @@
 {
-  "web": 2610272138,
-  "webUrl": "web/2610272138.zip",
-  "checksum": "6ba53b7614e9193712f0ee043fa0d2c9efb854b2755a4fb3ab9574cf45039f51",
+  "web": 2610272145,
+  "webUrl": "web/2610272145.zip",
+  "checksum": "f70f7c5c38d2712de95c28a99c8437786ef83d64dc8dd9c6efeb3876aa5ad10a",
   "minApk": 42,
-  "notes": "Relatório mais detalhado",
+  "notes": "Corrige crash do 3D",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
