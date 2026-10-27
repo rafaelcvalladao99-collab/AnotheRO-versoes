@@ -1,8 +1,8 @@
 {
-  "web": 2610271838,
-  "webUrl": "web/2610271838.zip",
-  "checksum": "2d9a65a91ca41caeab9761946b7a11f3909e963211cf163e8457948d52e4c8b0",
+  "web": 2610271943,
+  "webUrl": "web/2610271943.zip",
+  "checksum": "07ff5289ccf0fcdf928bf30cde18c9bd96ab19c57fd8d63b2bc82e252777a2a1",
   "minApk": 42,
-  "notes": "Cenário HD 3D com kits de todos os biomas (Menu > Opções > Visual > HD 3D), água/lava/escadas em 3D, animações novas de todas as habilidades, efeitos de habilidade ativa e o falcão do Caçador.",
+  "notes": "Movimentos especiais do herói nas habilidades e efeitos visíveis de mais 6 habilidades contínuas.",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
