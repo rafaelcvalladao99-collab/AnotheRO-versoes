@@ -1,8 +1,8 @@
 {
-  "web": 2610281027,
-  "webUrl": "web/2610281027.zip",
-  "checksum": "f14f29765a52bdc35d474d74071347579ee17c89d2e1b33f5396ff9aebf69a7f",
+  "web": 2610281043,
+  "webUrl": "web/2610281043.zip",
+  "checksum": "28c4b3592e304cdd92d8af6b216e2d13955a827a829da10efeb5da3e015a7524",
   "minApk": 42,
-  "notes": "Correções: tela de habilidades (habilidades que estavam na barra ficavam espremidas). Forja: você escolhe usar o Martelo Abençoado; ele é gasto em toda tentativa. O painel mostra tudo que muda no refino.",
+  "notes": "Refino novo: cada nível rende mais que o anterior (vale muito a pena passar do +4). Varinhas e cajados sobem só ATQM. Armaduras, elmos e escudos também ganham DEFM.",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
