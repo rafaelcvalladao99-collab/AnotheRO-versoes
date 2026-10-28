@@ -1,8 +1,8 @@
 {
-  "web": 2610280351,
-  "webUrl": "web/2610280351.zip",
-  "checksum": "6c486b50e2a47cc27eabab584529536a0696c1efbaab00157d8ea14bf68520ef",
+  "web": 2610280546,
+  "webUrl": "web/2610280546.zip",
+  "checksum": "559cc6061a667bd87c40896b082ce70a6599227260a0e50440210bc54598874f",
   "minApk": 42,
-  "notes": "Menus novos: mochila, mercado, armazém e equipamento; crítico ignora metade da defesa",
+  "notes": "Bruxo refeito: combos de estado (fogo na pedra, gelo em quem queima, raio no gelo), Olhar da Medusa, Proteção Arcana, Campo Gravitacional reforça combos; sem vantagem de elemento. Cavaleiro: Ofensiva Furiosa. Alcances revisados. Chefes resistem menos a status. Atributos mostram o ganho por ponto; forja nova com Martelo Abençoado.",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
