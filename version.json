@@ -1,8 +1,8 @@
 {
-  "web": 2610280337,
-  "webUrl": "web/2610280337.zip",
-  "checksum": "c95058b9ef778a6e92bf0a5bd8f45f4639cbb5df82198c95ab0d36f064d256d2",
+  "web": 2610280351,
+  "webUrl": "web/2610280351.zip",
+  "checksum": "6c486b50e2a47cc27eabab584529536a0696c1efbaab00157d8ea14bf68520ef",
   "minApk": 42,
-  "notes": "Poções novas com progressão",
+  "notes": "Menus novos: mochila, mercado, armazém e equipamento; crítico ignora metade da defesa",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
