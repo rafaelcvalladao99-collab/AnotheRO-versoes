@@ -1,8 +1,8 @@
 {
-  "web": 2610280601,
-  "webUrl": "web/2610280601.zip",
-  "checksum": "aecd93d456f12d53c1640b644bc4b7257093bb74d3bee0d019d444b52c4f7707",
+  "web": 2610281027,
+  "webUrl": "web/2610281027.zip",
+  "checksum": "f14f29765a52bdc35d474d74071347579ee17c89d2e1b33f5396ff9aebf69a7f",
   "minApk": 42,
-  "notes": "Correções: aviso de golpe do chefe agora fica no chão (atrás dos monstros). Selinhos de estado sobre a vida (queimando, congelado, petrificado, atordoado, envenenado, preso, no campo) e brasas em quem está queimando.",
+  "notes": "Correções: tela de habilidades (habilidades que estavam na barra ficavam espremidas). Forja: você escolhe usar o Martelo Abençoado; ele é gasto em toda tentativa. O painel mostra tudo que muda no refino.",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
