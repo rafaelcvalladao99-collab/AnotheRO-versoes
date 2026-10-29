@@ -1,8 +1,8 @@
 {
-  "web": 2610281706,
-  "webUrl": "web/2610281706.zip",
-  "checksum": "6481b9d9ac36cbe241d4802f7b99a33f7b1817d36ffab78c74c4cbaa3f91d5ce",
+  "web": 2610292245,
+  "webUrl": "web/2610292245.zip",
+  "checksum": "394b647323c414937de0086938cf493ba1c2074b20f391c267fb802f79cdf894",
   "minApk": 42,
-  "notes": "Balanceamento: monstros com mais vida (andares 6-15, 21-25 e 36-40) e mais DEFM no fim. Bruxo: fogo em monstro petrificado causa 10x. Chuva de Meteoros, Chuva de Shuriken e Fúria do Sol (agora com chance de queimar) mais fortes. Avisos de combo aparecem acima da cabeça.",
+  "notes": "Correção do Bruxo: enquanto o monstro está petrificado, a queimadura fica pausada (não tira vida). Volta quando a pedra sai.",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
