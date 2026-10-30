@@ -1,8 +1,8 @@
 {
-  "web": 2610301245,
-  "webUrl": "web/2610301245.zip",
-  "checksum": "f470c660ad044fb6a05e84a3c03c3853f1055fc3a18a3eeba43ad07456d5464c",
+  "web": 2610301409,
+  "webUrl": "web/2610301409.zip",
+  "checksum": "8971995836b8ac49a92ea701bc7f54b63b73780156fd37e5d056e61d6538ec9a",
   "minApk": 42,
-  "notes": "Shinobi com Energia e Sangria; Caçador com distância, Presa, Armadilha, Salto para Trás e Virote de Impacto; recarga em quem empurra; chefes ficam lentos em vez de presos",
+  "notes": "Nível de classe (1 ponto por nível de classe, pontos só da própria classe; habilidades com 3 ou 2 níveis); Taekwon com Ritmo, Golpe Final, Chute Rasteira e Chute Ascendente",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
