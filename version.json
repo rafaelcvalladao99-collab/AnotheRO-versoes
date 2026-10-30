@@ -1,8 +1,8 @@
 {
-  "web": 2610300920,
-  "webUrl": "web/2610300920.zip",
-  "checksum": "4af82ddd58ca2137050ea19b6fcdccd263ded2319a5498c0bfcab9032092e1e4",
+  "web": 2610301245,
+  "webUrl": "web/2610301245.zip",
+  "checksum": "f470c660ad044fb6a05e84a3c03c3853f1055fc3a18a3eeba43ad07456d5464c",
   "minApk": 42,
-  "notes": "Cavaleiro: Aparar Golpe vira guarda ativa, Abertura e Fervor; contagem do golpe forte dos chefes; textos não se sobrepõem",
+  "notes": "Shinobi com Energia e Sangria; Caçador com distância, Presa, Armadilha, Salto para Trás e Virote de Impacto; recarga em quem empurra; chefes ficam lentos em vez de presos",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
