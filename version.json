@@ -1,8 +1,8 @@
 {
-  "web": 2610302057,
-  "webUrl": "web/2610302057.zip",
-  "checksum": "f52c76c7388f6ac37a7a97ee8a2062cb0ae96174d3e7bdee4d6410edec2c1466",
+  "web": 2610302130,
+  "webUrl": "web/2610302130.zip",
+  "checksum": "f525d53ba5ebf916eb7d0e3e7bfbd9a4b6fb19e405915c006d571061b431f583",
   "minApk": 42,
-  "notes": "PvP: Guilda PvP Owners (convite na 1ª classe), Sala de PvP, Batalha Campal Flavius e KVM, Guerra do Emperium com castelo, equipamento e loja de PvP, cartas de PvP, Diário da Aventura e Trevo Dourado",
+  "notes": "PvP numa cidade estilo Prontera (Sala, KVM e Flavius) e visual novo em todas as telas: cores por lugar, números coloridos, botões por ação e menos texto",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
