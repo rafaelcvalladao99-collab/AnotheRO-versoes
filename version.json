@@ -1,8 +1,8 @@
 {
-  "web": 2610301502,
-  "webUrl": "web/2610301502.zip",
-  "checksum": "978fc4c40c4c1c94859d6131276d8dc1c6ecb174e0ec73af31cad6deecf73311",
+  "web": 2610301540,
+  "webUrl": "web/2610301540.zip",
+  "checksum": "5338f0896df30efb3980e30a113cea10b3e6cc0958ad710bcdd06581f1993c6c",
   "minApk": 42,
-  "notes": "Pontos de habilidade fechados em todas as classes: Contra-ataque e Revidar Projétil (Espadachim), Fio de Aço e Respiração Ninja (Ninja), Hemorragia (Shinobi), Salto para Trás passa para o Arqueiro e ajustes de níveis",
+  "notes": "Cartas de classe nos andares 11 a 20 (Cavaleiro, Bruxo, Caçador, Assassino, Monge, Shinobi, Taekwon); Espectro sem elemento; 4 cartas de ATQ% e 4 de ATQM%; 7 cartas em branco reservadas para o PvP; faixas de distância do Caçador no chão",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
