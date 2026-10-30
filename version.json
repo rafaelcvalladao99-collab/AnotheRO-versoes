@@ -1,8 +1,8 @@
 {
-  "web": 2610300358,
-  "webUrl": "web/2610300358.zip",
-  "checksum": "914a2d232f4471804163d16fc5def70a9f353793c111aef1be71b6ca48a64de5",
+  "web": 2610300920,
+  "webUrl": "web/2610300920.zip",
+  "checksum": "4af82ddd58ca2137050ea19b6fcdccd263ded2319a5498c0bfcab9032092e1e4",
   "minApk": 42,
-  "notes": "Correção: chefes (MVPs) não são mais empurrados por nenhuma habilidade (ex.: Trovão de Júpiter).",
+  "notes": "Cavaleiro: Aparar Golpe vira guarda ativa, Abertura e Fervor; contagem do golpe forte dos chefes; textos não se sobrepõem",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
