@@ -1,8 +1,8 @@
 {
-  "web": 2610300355,
-  "webUrl": "web/2610300355.zip",
-  "checksum": "195ac83cd6dfd8c53fb6d0e846ab210d5d24fd2d290d31c6a4a91b6b8c6e5010",
+  "web": 2610300358,
+  "webUrl": "web/2610300358.zip",
+  "checksum": "914a2d232f4471804163d16fc5def70a9f353793c111aef1be71b6ca48a64de5",
   "minApk": 42,
-  "notes": "Habilidades com nível máximo menor e o mesmo efeito final: truques do Aprendiz vão a 1; passivas, suportes e preparos vão a 3. Quem já tinha pontos nelas recebe a diferença de volta.",
+  "notes": "Correção: chefes (MVPs) não são mais empurrados por nenhuma habilidade (ex.: Trovão de Júpiter).",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
