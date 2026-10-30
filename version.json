@@ -1,8 +1,8 @@
 {
-  "web": 2610292245,
-  "webUrl": "web/2610292245.zip",
-  "checksum": "394b647323c414937de0086938cf493ba1c2074b20f391c267fb802f79cdf894",
+  "web": 2610300355,
+  "webUrl": "web/2610300355.zip",
+  "checksum": "195ac83cd6dfd8c53fb6d0e846ab210d5d24fd2d290d31c6a4a91b6b8c6e5010",
   "minApk": 42,
-  "notes": "Correção do Bruxo: enquanto o monstro está petrificado, a queimadura fica pausada (não tira vida). Volta quando a pedra sai.",
+  "notes": "Habilidades com nível máximo menor e o mesmo efeito final: truques do Aprendiz vão a 1; passivas, suportes e preparos vão a 3. Quem já tinha pontos nelas recebe a diferença de volta.",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
