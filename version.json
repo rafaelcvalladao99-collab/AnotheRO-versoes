@@ -1,8 +1,8 @@
 {
-  "web": 2610310124,
-  "webUrl": "web/2610310124.zip",
-  "checksum": "998882822ebed4c391d32390ddfef22c804db690bf272f5078b033b9a6262337",
+  "web": 2610310135,
+  "webUrl": "web/2610310135.zip",
+  "checksum": "5663aca3090d7736ca30e20f1075987e3c5bd770107798c6059280379b28c783",
   "minApk": 42,
-  "notes": "PvP mais justo: os outros aventureiros seguem o seu nível de classe, começam com kit de Recruta e usam as mesmas poções que você",
+  "notes": "Botão Automático: o robô farma o andar sozinho (não desce nem volta à cidade). Explorar voltou à velocidade normal.",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
