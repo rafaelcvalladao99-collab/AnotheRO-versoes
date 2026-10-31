@@ -1,8 +1,8 @@
 {
-  "web": 2610310135,
-  "webUrl": "web/2610310135.zip",
-  "checksum": "5663aca3090d7736ca30e20f1075987e3c5bd770107798c6059280379b28c783",
+  "web": 2610310141,
+  "webUrl": "web/2610310141.zip",
+  "checksum": "02f514d9303b3b92664a62698410c3def56bb7e70bb3c26b4644c81a467099aa",
   "minApk": 42,
-  "notes": "Botão Automático: o robô farma o andar sozinho (não desce nem volta à cidade). Explorar voltou à velocidade normal.",
+  "notes": "Automático: quando o andar fica explorado e limpo, todos os monstros reaparecem de uma vez.",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
