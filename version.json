@@ -1,8 +1,8 @@
 {
-  "web": 2610302130,
-  "webUrl": "web/2610302130.zip",
-  "checksum": "f525d53ba5ebf916eb7d0e3e7bfbd9a4b6fb19e405915c006d571061b431f583",
+  "web": 2610310124,
+  "webUrl": "web/2610310124.zip",
+  "checksum": "998882822ebed4c391d32390ddfef22c804db690bf272f5078b033b9a6262337",
   "minApk": 42,
-  "notes": "PvP numa cidade estilo Prontera (Sala, KVM e Flavius) e visual novo em todas as telas: cores por lugar, números coloridos, botões por ação e menos texto",
+  "notes": "PvP mais justo: os outros aventureiros seguem o seu nível de classe, começam com kit de Recruta e usam as mesmas poções que você",
   "apkUrl": "https://github.com/rafaelcvalladao99-collab/AnotheRO-versoes/raw/main/AnotheRO.apk"
 }
